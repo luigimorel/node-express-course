@@ -1,0 +1,27 @@
+{
+  "name": "express-course",
+  "version": "1.0.0",
+  "description": "An expressjs tutorial by github",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morelmiles/node-express-course.git"
+  },
+  "keywords": [
+    "Server",
+    "Nodejs"
+  ],
+  "author": "Luigi Morel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morelmiles/node-express-course/issues"
+  },
+  "homepage": "https://github.com/morelmiles/node-express-course#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
